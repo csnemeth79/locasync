@@ -1,0 +1,14 @@
+{
+    "name": "csnemeth79/locasync",
+    "description": "EASY and smart tool for keep language files syncronized.",
+    "authors": [
+        {
+            "name": "Csaba Németh",
+            "email": "csnemeth79@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "another-vendor/package": "1.*"
+    }
+}

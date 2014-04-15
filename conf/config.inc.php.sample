@@ -1,0 +1,11 @@
+<?php
+
+Class Config {
+    public static $main_directory = 'lang';
+    public static $prior_language = 'hu';
+    public static $additional_languages = array('en', 'ru');
+    public static $auto_fix = true;
+}
+
+
+?>

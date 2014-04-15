@@ -3,27 +3,27 @@ locasync
 
 ##EASY and smart tool for keep language files syncronized ##
 
-##REPO##
+###REPO###
  
 https://github.com/csnemeth79/locasync
 
-##CONFIGURATION##
+###CONFIGURATION###
 
 Copy config.inc.php.sample and paste it to config.inc.php on same directory.
 
-###config tags###
+####config tags####
     $main_directory - laguage directoty
     $prior_language - main language (only one)
     $additional_languages = array for additional languages
     $auto_fix = true = auto fix and log, false = only logging
 
-##Usage##
+###Usage###
 
   1. Open /bin directory
   2. Run: sync.bat
   3. Watch console and check out logs\log.txt
   
-##REQUIREMENTS##
+###REQUIREMENTS###
 
  - unlimited languages supported with one main language (source generation)
  - language files are case sensitive
